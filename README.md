@@ -1,2 +1,2 @@
 # controle_notinhas
-Uso esse programa para controlar meus gastos semanais
+Esse programa gera um banco de dados de preços a partir do link associado ao QR Code de notas fiscais. Just for fun. 
